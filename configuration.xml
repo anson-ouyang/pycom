@@ -1,0 +1,8 @@
+<configuration>
+    <serial>
+        <portx>COM34</portx>
+        <baud>115200</baud>
+        <timex>1</timex>
+        <stop>0</stop>
+    </serial>
+</configuration>
